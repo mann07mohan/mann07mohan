@@ -1,2 +1,3 @@
 this is file 1 to add to repository
 by Manmohan
+edited from the git hub and need to pull to use it.
